@@ -489,7 +489,6 @@ table tr:nth-child(even) {
   padding: 10px;
   border-bottom: 1px solid #ddd;
 }
-
 /* ========================== STOCK CONTROL WRAPPER ========================== */
 .stock-control-wrapper {
   position: relative;
